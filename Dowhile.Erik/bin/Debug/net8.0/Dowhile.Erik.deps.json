@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Dowhile.Erik/1.0.0": {
+        "runtime": {
+          "Dowhile.Erik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dowhile.Erik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
