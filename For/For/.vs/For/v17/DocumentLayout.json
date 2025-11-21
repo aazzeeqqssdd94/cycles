@@ -3,6 +3,9 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\For\\For\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A8E5E88-39BF-42DF-9D09-F9CFCA44F662}|For.csproj|c:\\users\\opilane\\source\\repos\\erik newrepo\\cycles\\for\\for\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A8E5E88-39BF-42DF-9D09-F9CFCA44F662}|For.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -20,11 +23,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\Program.cs",
+              "RelativeToolTip": "..\\..\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:28:23.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\For\\For\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\For\\For\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-31T10:54:58.246Z",
               "EditorCaption": ""

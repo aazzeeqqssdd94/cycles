@@ -26,5 +26,12 @@
 //}
 //                      0              1                 2           3           4
 
-string[] monsters = {"MrSkeltal","Frankensein","Shigeru Myamoto","katt","Joodik Balti Jaams"};
-Console.WriteLine(monsters[0]);
+//string[] monsters = {"MrSkeltal","Frankensein","Shigeru Myamoto","katt","Joodik Balti Jaams"};
+//Console.WriteLine(monsters[0]);
+
+//Console.WriteLine("Palun sisesta oma täisnimi");
+//string isikuNimi = Console.ReadLine();
+//for (int i = 0; i < isikuNimi.Length; i++)
+//{
+//    Console.WriteLine(isikuNimi[i]);
+//}//

@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\bin\Debug\net8.0\õk.exe
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\bin\Debug\net8.0\õk.deps.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\bin\Debug\net8.0\õk.runtimeconfig.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\bin\Debug\net8.0\õk.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\bin\Debug\net8.0\õk.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.AssemblyInfo.cs
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.sourcelink.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\refint\õk.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\õk.genruntimeconfig.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\õk\obj\Debug\net8.0\ref\õk.dll

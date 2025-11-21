@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\bin\Debug\net9.0\assasa.exe
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\bin\Debug\net9.0\assasa.deps.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\bin\Debug\net9.0\assasa.runtimeconfig.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\bin\Debug\net9.0\assasa.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\bin\Debug\net9.0\assasa.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.AssemblyInfo.cs
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.sourcelink.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\refint\assasa.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\assasa.genruntimeconfig.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\KordamisÜlesanded\assasa\obj\Debug\net9.0\ref\assasa.dll

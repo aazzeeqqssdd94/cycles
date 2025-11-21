@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\bin\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.exe
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\bin\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.deps.json
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\bin\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.runtimeconfig.json
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\bin\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.dll
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\bin\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.pdb
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.AssemblyInfo.cs
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.sourcelink.json
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.dll
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\refint\Ü6 - tsükkel ja massiiv Erik.dll
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.pdb
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\Ü6 - tsükkel ja massiiv Erik.genruntimeconfig.cache
+C:\Users\opilane\Source\Repos\Erik newrepo\cycles\Ü6 - tsükkel ja massiiv Erik\Ü6 - tsükkel ja massiiv Erik\obj\Debug\net9.0\ref\Ü6 - tsükkel ja massiiv Erik.dll

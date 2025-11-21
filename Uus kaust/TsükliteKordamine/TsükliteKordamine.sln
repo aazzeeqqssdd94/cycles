@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsükliteKordamine", "TsükliteKordamine.csproj", "{4E893387-DFED-4311-BAA6-64BCE3FA70C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E893387-DFED-4311-BAA6-64BCE3FA70C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E893387-DFED-4311-BAA6-64BCE3FA70C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E893387-DFED-4311-BAA6-64BCE3FA70C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E893387-DFED-4311-BAA6-64BCE3FA70C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55D23A30-73D7-42EA-9FD7-D957770B7865}
+	EndGlobalSection
+EndGlobal

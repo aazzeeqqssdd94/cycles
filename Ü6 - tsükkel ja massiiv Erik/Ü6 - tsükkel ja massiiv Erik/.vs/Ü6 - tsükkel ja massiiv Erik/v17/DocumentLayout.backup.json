@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CEFA61FA-9C07-489F-81F1-7AFBE194512F}|\u00DC6 - ts\u00FCkkel ja massiiv Erik.csproj|c:\\users\\opilane\\source\\repos\\erik newrepo\\cycles\\\u00FC6 - ts\u00FCkkel ja massiiv erik\\\u00FC6 - ts\u00FCkkel ja massiiv erik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEFA61FA-9C07-489F-81F1-7AFBE194512F}|\u00DC6 - ts\u00FCkkel ja massiiv Erik.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\opilane\\Source\\Repos\\Erik newrepo\\cycles\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\\u00DC6 - ts\u00FCkkel ja massiiv Erik\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwEAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-31T13:13:09.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
