@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\bin\Debug\net8.0\Casting.exe
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\bin\Debug\net8.0\Casting.deps.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\bin\Debug\net8.0\Casting.runtimeconfig.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\bin\Debug\net8.0\Casting.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\bin\Debug\net8.0\Casting.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.AssemblyInfo.cs
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.sourcelink.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\refint\Casting.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\Casting.genruntimeconfig.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Method2\Casting\Casting\obj\Debug\net8.0\ref\Casting.dll
