@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\bin\Debug\net8.0\ül6.exe
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\bin\Debug\net8.0\ül6.deps.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\bin\Debug\net8.0\ül6.runtimeconfig.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\bin\Debug\net8.0\ül6.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\bin\Debug\net8.0\ül6.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.AssemblyInfo.cs
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.sourcelink.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\refint\ül6.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ül6.genruntimeconfig.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\ül6\ül6\obj\Debug\net8.0\ref\ül6.dll
