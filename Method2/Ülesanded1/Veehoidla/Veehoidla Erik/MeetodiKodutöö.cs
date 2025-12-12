@@ -23,6 +23,7 @@ namespace Veehoidla_Erik
             // teise meetodi tulemus hoitakse muutujas, ning see antakse kaasa eimesele meetodile, mis joonistab ruud aga õige värviga
 
             // varasemate ülesannete osi, saab siin taaskasutada.
+            Console.WriteLine("sss");
         }
     }
 }
