@@ -1,0 +1,361 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="2613" dy="3973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-4" target="dZNkHhpbgdhpSAfPrv9U-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-4" value="KasutajaNimi algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="855" y="160" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-5" target="dZNkHhpbgdhpSAfPrv9U-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-5" value="Tekitame muutuja &quot;sisestus&quot; mille sees on hetkel tühi tekst" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="815" y="280" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-7" target="dZNkHhpbgdhpSAfPrv9U-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-7" value="kuva kasutaja tekst &quot;palun sisesta oma kasutajanimi&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="815" y="400" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-9" target="dZNkHhpbgdhpSAfPrv9U-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-9" value="oota kuni kasutaja sesetab muutujasse &quot;sisestus&quot; sisestuse" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="855" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-13" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-11" target="dZNkHhpbgdhpSAfPrv9U-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1095" y="665" />
+              <mxPoint x="1095" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-15" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-11" target="dZNkHhpbgdhpSAfPrv9U-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-11" value="Kas sisestus on tühi?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="810" y="600" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-14" target="dZNkHhpbgdhpSAfPrv9U-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-14" value="Tagasta muutuja &quot;sisestus&quot; väärtus väljakutsumise asukohta" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="825" y="790" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-16" value="Meetodi lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="875" y="910" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-18" target="dZNkHhpbgdhpSAfPrv9U-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-18" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="130" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-19" target="dZNkHhpbgdhpSAfPrv9U-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-19" value="Tekitame muutuja &quot;kasutajaNimi&quot; mililele paneme väärtuseks meetodi &quot;kasutajaNimi&quot; tagastatava väärtuse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="110" y="220" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-23" target="dZNkHhpbgdhpSAfPrv9U-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-23" value="Mine kasutajaNimi algusesse" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="170" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-25" target="dZNkHhpbgdhpSAfPrv9U-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-25" value="Tekitame muutuja &quot;correctUser&quot; mile väärtuseks on &quot;siksseven&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="127.5" y="450" width="165" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-30" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-27" target="dZNkHhpbgdhpSAfPrv9U-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-45" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-27" target="dZNkHhpbgdhpSAfPrv9U-44">
+          <mxGeometry x="-0.4386" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-27" value="Kui correctUser ei ole sama nagu kasutajaNimi" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="550" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-29" target="dZNkHhpbgdhpSAfPrv9U-112">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="2140" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="2340" />
+              <mxPoint x="403" y="2340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-29" value="Kuva kasutajale tekst&amp;nbsp; tema enda nimega muutujast kasutajaNimi öekdas et &quot;Sinu nimi ei ole õige" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="120" y="720" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-44" target="dZNkHhpbgdhpSAfPrv9U-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-44" value="tekita muutuja &quot;veetase&quot; mile väärtuseks on 0 double" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-47" target="dZNkHhpbgdhpSAfPrv9U-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-47" value="kuva kasutajale tekst kasutades ka muutujat &quot;correctUser&quot; öeldes talle &quot; Tere correctUser. Mis on veetase hetkeseis meetrites?" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327.5" y="820" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-49" target="dZNkHhpbgdhpSAfPrv9U-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-49" value="Tekitame muutuja, kus hoitakse sees väärtust kas õige või vale, muutuja nimi on &quot;errorState&quot; mille hetkeväärtus &quot;false&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327.5" y="950" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-51" target="dZNkHhpbgdhpSAfPrv9U-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-51" value="Kuva kasutaja tekst &quot;Mis on veetase anduril&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327.5" y="1060" width="205" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-53" target="dZNkHhpbgdhpSAfPrv9U-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-53" value="Tekitame muutuja &quot;andur&quot; kus hoiame double andmetüübis andmeid. Hetkel on muutujas käsurea pealt saadud andmed" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="335" y="1169" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-56" target="dZNkHhpbgdhpSAfPrv9U-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-56" value="Oota kuni kasutaja sisestab andmeid" style="whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="370" y="1290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-58" target="dZNkHhpbgdhpSAfPrv9U-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-58" value="Paneme muutujasse &quot;veetase&quot; muutuja &quot;andur&quot; väärtuse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="1380" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-63" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-60" target="dZNkHhpbgdhpSAfPrv9U-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-64" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-60" target="dZNkHhpbgdhpSAfPrv9U-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="1960.0000000000005" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="1510" />
+              <mxPoint x="360" y="1780" />
+              <mxPoint x="430" y="1780" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-60" value="Kas veetase on väiksem kui 1d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="1470" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-62">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="1900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-70" value="EI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="dZNkHhpbgdhpSAfPrv9U-67">
+          <mxGeometry x="-0.8342" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-62" value="Kas veetase on suurem kui 4.25d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="1600" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-65" target="dZNkHhpbgdhpSAfPrv9U-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-65" value="paneme muutujasse &quot;errorState&quot; väärtuse &quot;true&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="1800.0000000000005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.582;entryY=-0.003;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-62" target="dZNkHhpbgdhpSAfPrv9U-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-68" target="dZNkHhpbgdhpSAfPrv9U-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-68" value="katkestame tsükli tegevuse" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="280" y="1920.0000000000005" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-73" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-71" target="dZNkHhpbgdhpSAfPrv9U-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-75" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-71" target="dZNkHhpbgdhpSAfPrv9U-51">
+          <mxGeometry x="-0.8118" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="1940" />
+              <mxPoint x="670" y="1095" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-71" value="kas veetase on väiksem kui 1d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="1900" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-76" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-72" target="dZNkHhpbgdhpSAfPrv9U-51">
+          <mxGeometry x="-0.8021" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="2090" />
+              <mxPoint x="670" y="1095" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-72" target="dZNkHhpbgdhpSAfPrv9U-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-72" value="kas veetase on suuremkui 4.25d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="480" y="2050" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-77" target="dZNkHhpbgdhpSAfPrv9U-112">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-77" value="Mine hoiatusSõnum algusesse, anna kaasa muutuja &quot;veetase&quot; ja muutuja &quot;errorState&quot;" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="327.5" y="2170" width="150" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-80" target="dZNkHhpbgdhpSAfPrv9U-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-80" value="Hoiatussõnum algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1190" y="170" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-86" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-81" target="dZNkHhpbgdhpSAfPrv9U-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-87" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-81">
+          <mxGeometry x="-0.8543" relative="1" as="geometry">
+            <mxPoint x="1400" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="310" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-81" value="kas muutja &quot;veetase&quot; väärtus on suurem või võrdne kui 1.00d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1167.5" y="260" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-88" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-85">
+          <mxGeometry x="-0.7582" relative="1" as="geometry">
+            <mxPoint x="1400" y="760" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1400" y="460" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-90" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-85" target="dZNkHhpbgdhpSAfPrv9U-89">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-85" value="kas muutja &quot;veetase&quot; väärtus on väiksem või võrdne kui 2.00d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1167.5" y="410" width="165" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-89" target="dZNkHhpbgdhpSAfPrv9U-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1160" y="595" />
+              <mxPoint x="1160" y="1690" />
+              <mxPoint x="1330" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-89" value="Kuva kasutajaale tekst &quot;veetase on madal&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1175" y="570" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-94" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-92" target="dZNkHhpbgdhpSAfPrv9U-93">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-95" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-92">
+          <mxGeometry x="-0.871" relative="1" as="geometry">
+            <mxPoint x="1270" y="1200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-92" value="kas muutja &quot;veetase&quot; väärtus on väiksem või võrdne kui 2.00d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1310" y="760" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-97" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-93" target="dZNkHhpbgdhpSAfPrv9U-96">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-93">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1270" y="1200.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1270" y="990" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-93" value="kas muutja &quot;veetase&quot; väärtus on väiksem või kui 3.50d?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1310" y="930" width="180" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-96" target="dZNkHhpbgdhpSAfPrv9U-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1530" y="1130" />
+              <mxPoint x="1530" y="1690" />
+              <mxPoint x="1330" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-96" value="Kuva kasutajale tekst&amp;nbsp;&lt;br&gt;&quot;veetase on normaalne&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1340" y="1100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-100" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-99">
+          <mxGeometry x="-0.8491" relative="1" as="geometry">
+            <mxPoint x="1410" y="1600" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-102" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-99" target="dZNkHhpbgdhpSAfPrv9U-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-99" value="Kas&lt;div&gt;&amp;nbsp;muutuja &quot;veetase&quot; väärtus on suurem või võrdne kui 3.5d&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="1200" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-104" value="JAh" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-101" target="dZNkHhpbgdhpSAfPrv9U-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-101" target="dZNkHhpbgdhpSAfPrv9U-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-101" value="Kas muutuja &quot;veetase&quot; väärtus on väiksem&lt;div&gt;&amp;nbsp;kui 24.25d?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1200" y="1410" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-103" target="dZNkHhpbgdhpSAfPrv9U-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1270" y="1690" />
+              <mxPoint x="1330" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-103" value="kuva kasutajale tekst &quot;tase on liiga kõrge&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1210" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dZNkHhpbgdhpSAfPrv9U-106" target="dZNkHhpbgdhpSAfPrv9U-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1410" y="1690" />
+              <mxPoint x="1330" y="1690" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-106" value="pane muutuja &quot;errorState&quot; väärtuseks &quot;true&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1350" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-109" value="Meetodi lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1270" y="1730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="dZNkHhpbgdhpSAfPrv9U-112" value="Lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="342.5" y="2360" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
