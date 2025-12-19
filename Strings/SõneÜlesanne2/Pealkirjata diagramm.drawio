@@ -1,0 +1,175 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.2.5 Chrome/138.0.7204.251 Electron/37.6.1 Safari/537.36" version="28.2.5">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1722" dy="1001" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-0" target="hrtnGrPYXDb-Nq1WYLol-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-0" value="Algus" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="354" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-1" target="hrtnGrPYXDb-Nq1WYLol-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-1" value="Tekitame muutuja &quot;kasutajad&quot;, omistame muutujale tühja nimekirjadest koosneva nimekirja, mille väiksem element on string andmetüübiga." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="140" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-3" target="hrtnGrPYXDb-Nq1WYLol-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-3" value="Lisame muutujasse &quot;kasutajad&quot; uue nimekirja, ks on kaks teksti/sõnet, esimine neist on &quot;user1&quot;;teine neist on &quot;password 1&quot;." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="230" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-5" target="hrtnGrPYXDb-Nq1WYLol-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-5" value="Lisame muutujasse &quot;kasutajad&quot; uue nimekirja, ks on kaks teksti/sõnet, esimine neist on &quot;user2&quot;;teine neist on &quot;password 2&quot;." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="320" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-7" target="hrtnGrPYXDb-Nq1WYLol-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-7" value="Tekitame muutuja 2kasutajanimi&quot; sõne andmetüübiga, ja omistame talle algväärtuseks tühja sõne." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="410" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-9" target="hrtnGrPYXDb-Nq1WYLol-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-9" value="Tekitame muutuja kasutajanimi&quot; sõne andmetüübiga, ja omistame talle algväärtuseks tühja sõne." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="500" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-11" target="hrtnGrPYXDb-Nq1WYLol-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-11" value="kuva kasutajale tekst &quot;palun sisesta oma kasutajanimi&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="590" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-13" target="hrtnGrPYXDb-Nq1WYLol-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-13" value="Muuda muutja &quot;kasutajanimi&quot; väärtust, kirjutades üle eksisteeriv väärtus infoga käsurealt." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="670" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-15" target="hrtnGrPYXDb-Nq1WYLol-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-15" value="Tekitame muutuja &quot;doesUserExist&quot; kus hoiame boolean-tüüpi andmeid, omistame talle algväärtuseks &quot;false&quot;." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="750" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-17" target="hrtnGrPYXDb-Nq1WYLol-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-17" value="Tekitame muutuja &quot;õigeparool&quot; sõne andmetüübiga, ja omistame talle algväärtuseks tühla sõne." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="273.5" y="830" width="281" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-23" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-19" target="hrtnGrPYXDb-Nq1WYLol-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-24" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-19" target="hrtnGrPYXDb-Nq1WYLol-31">
+          <mxGeometry x="-0.7101" relative="1" as="geometry">
+            <mxPoint x="420" y="1490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="990" />
+              <mxPoint x="220" y="1420" />
+              <mxPoint x="414" y="1420" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-19" value="Kas loendis &quot;kasutajad&quot; on veel elemente, ajutise muutuja nimega &quot;user&quot;, alles?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299" y="930" width="229" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-26" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-22" target="hrtnGrPYXDb-Nq1WYLol-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-22" value="Kas &quot;user&quot; muutuja elemnt [0] on täpselt sama kui muutuja &quot;kasutajanimi&quot;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="299.5" y="1090" width="229" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-25" target="hrtnGrPYXDb-Nq1WYLol-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-25" value="Muudame muutuja &quot;doesUserExist&quot; väärtust, ja omistame sinna uue väärtuse &quot;true&quot;." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297" y="1260" width="234" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-27" value="Muudame muutuja &quot;õigeparool&quot; väärtust, ja omistame sinna uue väärtuse muutujast &quot;user&quot; kasutades selle elemendi [1] väärtust.." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="297" y="1340" width="234" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.962;entryY=0.647;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-17" target="hrtnGrPYXDb-Nq1WYLol-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="414" y="910" />
+              <mxPoint x="610" y="910" />
+              <mxPoint x="610" y="1372" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-33" value="JAH" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-31" target="hrtnGrPYXDb-Nq1WYLol-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-34" value="EI" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-31" target="hrtnGrPYXDb-Nq1WYLol-45">
+          <mxGeometry x="-0.8664" relative="1" as="geometry">
+            <mxPoint x="200" y="1980" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="200" y="1535" />
+              <mxPoint x="200" y="2130" />
+              <mxPoint x="414" y="2130" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-31" value="Kas muutuja&lt;div&gt;&amp;nbsp;&quot;doesUserExist&quot; omab &quot;true&quot;&lt;/div&gt;&lt;div&gt;&amp;nbsp;väärtust?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="264" y="1490" width="300" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-32" target="hrtnGrPYXDb-Nq1WYLol-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-32" value="Tekitame muutuja &quot;sisestus&quot;, mis omab sõne-tüüp andmeid, ja omistam sellele algvärtuseks tühja stringi" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="286" y="1630" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-35" target="hrtnGrPYXDb-Nq1WYLol-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-35" value="kuva kasutajale &quot;tekst: &quot;palun sisesta oma parool&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="286" y="1724" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-37" target="hrtnGrPYXDb-Nq1WYLol-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-37" value="muuda muutuja &quot;siestus&quot; väärtust, omistades sellele käsurea pealt uus väärtus." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="286" y="1810" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-39" target="hrtnGrPYXDb-Nq1WYLol-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-39" value="Kas muutuja &quot;sisestus&quot; väärtus on midagi muud, kui muutuja &quot;õigeparool&quot; väärtus?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="240" y="1900" width="346" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-43">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="413" y="2300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="413" y="2120" />
+              <mxPoint x="660" y="2120" />
+              <mxPoint x="660" y="2260" />
+              <mxPoint x="413" y="2260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-43" value="kuva kasutaja tekst, kasutades muutuja &quot;kasutajanimi&quot; väärtust: &quot;tere tulemast&amp;nbsp;&lt;div&gt;&quot;&amp;lt;kasutajanimi&amp;gt;&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="285" y="2040" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hrtnGrPYXDb-Nq1WYLol-45" target="hrtnGrPYXDb-Nq1WYLol-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-45" value="Kuva kasutajale tekst:&lt;div&gt;&amp;nbsp;&quot;kasutaja ei eksisteeri&quot;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="286" y="2170" width="256" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hrtnGrPYXDb-Nq1WYLol-46" value="Lõpp" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="2300" width="80" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
