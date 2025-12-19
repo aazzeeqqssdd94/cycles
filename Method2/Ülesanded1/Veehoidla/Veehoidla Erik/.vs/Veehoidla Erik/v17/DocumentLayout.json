@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\opilane\\Source\\repos\\Repos\\Erik newrepo\\cycles\\Method2\\\u00DClesanded1\\Veehoidla\\Veehoidla Erik\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3AD20895-0AE7-44B8-9D35-1248964F0406}|Veehoidla Erik.csproj|c:\\users\\opilane\\source\\repos\\repos\\erik newrepo\\cycles\\method2\\\u00FClesanded1\\veehoidla\\veehoidla erik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AD20895-0AE7-44B8-9D35-1248964F0406}|Veehoidla Erik.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3AD20895-0AE7-44B8-9D35-1248964F0406}|Veehoidla Erik.csproj|c:\\users\\opilane\\source\\repos\\repos\\erik newrepo\\cycles\\method2\\\u00FClesanded1\\veehoidla\\veehoidla erik\\meetodikodut\u00F6\u00F6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3AD20895-0AE7-44B8-9D35-1248964F0406}|Veehoidla Erik.csproj|solutionrelative:meetodikodut\u00F6\u00F6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AD20895-0AE7-44B8-9D35-1248964F0406}|Veehoidla Erik.csproj|c:\\users\\opilane\\source\\repos\\repos\\erik newrepo\\cycles\\method2\\\u00FClesanded1\\veehoidla\\veehoidla erik\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AD20895-0AE7-44B8-9D35-1248964F0406}|Veehoidla Erik.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +18,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MeetodiKodut\u00F6\u00F6.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\Repos\\Erik newrepo\\cycles\\Method2\\\u00DClesanded1\\Veehoidla\\Veehoidla Erik\\MeetodiKodut\u00F6\u00F6.cs",
               "RelativeDocumentMoniker": "MeetodiKodut\u00F6\u00F6.cs",
               "ToolTip": "C:\\Users\\opilane\\Source\\repos\\Repos\\Erik newrepo\\cycles\\Method2\\\u00DClesanded1\\Veehoidla\\Veehoidla Erik\\MeetodiKodut\u00F6\u00F6.cs",
               "RelativeToolTip": "MeetodiKodut\u00F6\u00F6.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T13:18:31.806Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\opilane\\Source\\repos\\Repos\\Erik newrepo\\cycles\\Method2\\\u00DClesanded1\\Veehoidla\\Veehoidla Erik\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\opilane\\Source\\repos\\Repos\\Erik newrepo\\cycles\\Method2\\\u00DClesanded1\\Veehoidla\\Veehoidla Erik\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwDEAAABYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-12T10:53:34.35Z",
               "EditorCaption": ""

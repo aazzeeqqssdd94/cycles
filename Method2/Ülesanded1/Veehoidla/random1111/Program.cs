@@ -2,29 +2,36 @@
 {
     internal class Program
     {
+
         static void Main(string[] args)
         {
-            Console.WriteLine("enter number");
-            Random rnd = new Random();
-            int random = rnd.Next(1, 100);
-            while (true)
+            Console.WriteLine("kirjuta oma x");
+            int x = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("kirjuta oma y");
+            int y = Convert.ToInt32(Console.ReadLine());
+            string x1 = "_";
+            string y1 = "|";
+
+            public static void y(string[] args)
+        
+            for (int i = 0; i<y; i++)
             {
-                int number = Convert.ToInt32(Console.ReadLine());
-                if (number > random)
-                {
-                    Console.WriteLine("less");
-                }
-                else if (number < random)
-                {
-                    Console.WriteLine("more");
-                }
-                else
-                {
-                    Console.WriteLine("right");
-                    Console.WriteLine(random);                    
-                    break;
-                }
+                Console.WriteLine(y1);
             }
+            Console.WriteLine(grdf);
+        }
+
+
+
+
+
+
+
+
+
+public static void grdf()
+        {
+            Console.WriteLine("xddd");
         }
     }
 }
