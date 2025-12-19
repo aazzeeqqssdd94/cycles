@@ -1,0 +1,15 @@
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\bin\Debug\net8.0\SõneÜlesanne2.exe
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\bin\Debug\net8.0\SõneÜlesanne2.deps.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\bin\Debug\net8.0\SõneÜlesanne2.runtimeconfig.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\bin\Debug\net8.0\SõneÜlesanne2.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\bin\Debug\net8.0\SõneÜlesanne2.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.AssemblyInfoInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.AssemblyInfo.cs
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.csproj.CoreCompileInputs.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.sourcelink.json
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\refint\SõneÜlesanne2.dll
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.pdb
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\SõneÜlesanne2.genruntimeconfig.cache
+C:\Users\opilane\Source\repos\Repos\Erik newrepo\cycles\Strings\SõneÜlesanne2\obj\Debug\net8.0\ref\SõneÜlesanne2.dll
